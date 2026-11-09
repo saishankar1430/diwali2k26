@@ -1,0 +1,6 @@
+{
+  "name": "Heeru ❤️ Sushii – A Diwali Night Together",
+  "description": "An interactive 3D Diwali night walkthrough with Heeru and Sushii. Explore a glowing Indian lane, light diyas and kandils, make rangoli, burst fireworks, and celebrate together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
